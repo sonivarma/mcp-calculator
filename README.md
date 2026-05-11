@@ -7,7 +7,7 @@
     "command": "uvx",
     "args": [
       "--from",
-      "git+https://github.com/sonivarma/mcp-calculatoremain,
+      "git+https://github.com/sonivarma/mcp-calculator@main",
 	  "calculator-server"
 	 ]
 	}
